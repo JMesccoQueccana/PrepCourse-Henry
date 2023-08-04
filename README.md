@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este es un Repositorio del Modulo2 del PreCourse de Henry
+Esta es una prueba de como crear un repsitorio y guardarlo en mi escritorio
